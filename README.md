@@ -2,8 +2,8 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> < FAKE NEWS DETECTION APPLICATION > </h2>
+	<h4 align="center"> < This application helps people to check if a news is fake or real, and thereby stay away from the fake news that spreads on social media.> <h4>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ## Preview
 - Add pictures or important highlights from the Project (if any)
 ## Functionalities
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
-- [ ]  < insert functionality >
+- [ ]  < It uses NLP techniques to pre-process the news-title >
+- [ ]  < The input is then taken by LSTM model. >
+- [ ]  < The model detects if the news is fake or real >
+- [ ]  < The final answer is displayed on web-app using streamlit. >
 
 <br>
 
@@ -24,18 +24,20 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < insert pre-requisite >
-	-  < insert pre-requisite >
+	-  < Being familiar with any code-editor like VS Code, Pycharm etc, and using command line >
+	-  < Open the Project folder in your code-editor>
 
 * < directions to install > 
-```bash
-< insert code >
+```in command line
+<env\scripts\activate>
+<pip install -r requirement.txt>
 ```
 
 * < directions to execute >
 
 ```bash
-< insert code >
+<env\scripts\activate>
+<streamlit run app.py>
 ```
 
 ## Contributors
@@ -49,11 +51,11 @@
 John Doe
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="PALAK AGGARWAL (file:///C:/Users/palak/Pictures/New%20folder/palak.jpg">
 </p>
 <p align="center">
-<a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person1">
+<a href = "https://github.com/Palak-Aggarwal1234"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/palak-aggarwal-96366a18b/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -65,7 +67,7 @@ John Doe
 John Doe
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="SHEEL PATEL (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -77,20 +79,7 @@ John Doe
 
 
 
-<td>
 
-John Doe
-
-<p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
-</p>
-<p align="center">
-<a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person3">
-<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-</a>
-</p>
-</td>
 </tr>
   </table>
   
