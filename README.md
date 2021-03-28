@@ -48,10 +48,10 @@
 
 <td>
 
-John Doe
+PALAK AGGARWAL
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="PALAK AGGARWAL (file:///C:/Users/palak/Pictures/New%20folder/palak.jpg">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="file:///C:/Users/palak/Pictures/New%20folder/palak.jpg">
 </p>
 <p align="center">
 <a href = "https://github.com/Palak-Aggarwal1234"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -64,14 +64,14 @@ John Doe
 
 <td>
 
-John Doe
+SHEEL PATEL
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="SHEEL PATEL (Insert Your Image Link In Src">
+<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="file:///C:/Users/palak/Pictures/sheel.png">
 </p>
 <p align="center">
-<a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/person2">
+<a href = "https://github.com/sheel1206"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/sheel1206/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
