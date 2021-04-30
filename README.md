@@ -2,8 +2,8 @@
 <a href="https://dscommunity.in">
 	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
-	<h2 align="center"> < FAKE NEWS DETECTION APPLICATION > </h2>
-	<h4 align="center"> < This application helps people to check if a news is fake or real, and thereby stay away from the fake news that spreads on social media.> <h4>
+	<h2 align="center">  FAKE NEWS DETECTION APPLICATION  </h2>
+	<h4 align="center">  This application helps people to check if a news is fake or real, and thereby stay away from the fake news that spreads on social media. <h4>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ## Preview
 - Add pictures or important highlights from the Project (if any)
 ## Functionalities
-- [ ]  < It uses NLP techniques to pre-process the news-title >
-- [ ]  < The input is then taken by LSTM model. >
-- [ ]  < The model detects if the news is fake or real >
-- [ ]  < The final answer is displayed on web-app using streamlit. >
+- [ ]   It uses NLP techniques to pre-process the news-title. 
+- [ ]   The input is then taken by LSTM model. 
+- [ ]   The model detects if the news is fake or real.
+- [ ]   The final answer is displayed on web-app using streamlit. 
 
 <br>
 
@@ -24,20 +24,20 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < Being familiar with any code-editor like VS Code, Pycharm etc, and using command line >
-	-  < Open the Project folder in your code-editor>
+	-   Being familiar with any code-editor like VS Code, Pycharm etc, and using command line
+	-   Open the Project folder in your code-editor
 
-* < directions to install > 
+* Directions to Install  
 ```in command line
-<env\scripts\activate>
-<pip install -r requirement.txt>
+env\scripts\activate
+pip install -r requirement.txt
 ```
 
-* < directions to execute >
+* Directions to Execute
 
 ```bash
-<env\scripts\activate>
-<streamlit run app.py>
+env\scripts\activate
+streamlit run app.py
 ```
 
 ## Contributors
@@ -67,7 +67,7 @@ PALAK AGGARWAL
 SHEEL PATEL
 
 <p align="center">
-<img src = "https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true"  height="120" alt="https://github.com/Data-Science-Community-SRM/template/blob/master/logo-light.png?raw=true">
+<img src = "https://github.com/Data-Science-Community-SRM/Conjexure-A-Web-App-for-Stock-Market-Forecasting/blob/620c84f290348f959b448c075168cf1d613c32d0/Images/Sheel.png"  height="120" alt="https://github.com/Data-Science-Community-SRM/Conjexure-A-Web-App-for-Stock-Market-Forecasting/blob/620c84f290348f959b448c075168cf1d613c32d0/Images/Sheel.png">
 </p>
 <p align="center">
 <a href = "https://github.com/sheel1206"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
