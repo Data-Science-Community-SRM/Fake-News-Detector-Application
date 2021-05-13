@@ -12,6 +12,11 @@
 
 ## Preview
 - Add pictures or important highlights from the Project (if any)
+- ![image](https://user-images.githubusercontent.com/53864078/118147161-eea0ac00-b42c-11eb-9f45-37aff37554a3.png)
+![image](https://user-images.githubusercontent.com/53864078/118147207-fc563180-b42c-11eb-83de-ec5016c0aa30.png)
+![image](https://user-images.githubusercontent.com/53864078/118147309-1132c500-b42d-11eb-963f-d173d84a7986.png)
+![image](https://user-images.githubusercontent.com/53864078/118147349-1abc2d00-b42d-11eb-9a23-e595dd3a371f.png)
+
 ## Functionalities
 - [ ]   It uses NLP techniques to pre-process the news-title. 
 - [ ]   The input is then taken by LSTM model. 
