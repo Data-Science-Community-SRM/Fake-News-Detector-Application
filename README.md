@@ -45,6 +45,10 @@ env\scripts\activate
 streamlit run app.py
 ```
 
+* You can check our deployed app here
+```bash
+https://fakenewsds.herokuapp.com/
+```
 ## Contributors
 
 <table>
